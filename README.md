@@ -5,7 +5,7 @@ Cette étude porte sur l’accidentologie routière en France, en 2018, et s’a
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.653 seconds.
+Conversion time: 0.83 seconds.
 
 
 Using this Markdown file:
@@ -18,7 +18,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Wed Nov 18 2020 08:19:29 GMT-0800 (PST)
+* Wed Nov 18 2020 08:27:17 GMT-0800 (PST)
 * Source doc: Document sans titre
 ----->
 
